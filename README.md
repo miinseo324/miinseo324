@@ -1,20 +1,21 @@
 ![initial](https://user-images.githubusercontent.com/67571521/211616557-b76269f9-ce4a-41dd-b1ec-e8389fb42b53.jpg)
 
 ### Hi! there :baby_chick:
+### This is MY STACK! 🐣
 
-<div align="center">
-  <center>💻 MY LANGUAGES 💻</center><br/><br/>
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<div>
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=appveyor&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=appveyor&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white" />
 </div>
-<br/>
-<div align="center">
-  <center>💽 MY PORTFOLIO 💽</center><br/><br/>
-  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" />
-	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+
+### This is MY PORTFOLIO! 🐥
+
+<div>
+  	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+	<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 </div>
 
 <!--
