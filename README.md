@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MINSEO%20PARK&fontSize=90" />
+![initial](https://user-images.githubusercontent.com/67571521/211616557-b76269f9-ce4a-41dd-b1ec-e8389fb42b53.jpg)
 
+### Hi! there :baby_chick:
 
 <div align="center">
   <center>💻 MY LANGUAGES 💻</center><br/><br/>
