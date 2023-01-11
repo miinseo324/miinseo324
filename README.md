@@ -18,6 +18,9 @@
 	<a href="https://www.notion.so/MINSEO-PARK-f2fac2e592ba43a5aef76e0189ab2acc"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a>
 </div>
 
+---------------------------------------------------------------------------------
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiinseo324&count_bg=%23CC3333&title_bg=%2326BB98&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 **miinseo324/miinseo324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
