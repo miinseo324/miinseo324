@@ -13,9 +13,7 @@
 
 <div>
   	<a href="https://github.com/miinseo324"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-	<a href="https://www.youtube.com/channel/UCUf4swZu_JDddhzQfDubrcw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 	<a href="https://velog.io/@miing_seo"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
-	<a href="https://www.notion.so/MINSEO-PARK-f2fac2e592ba43a5aef76e0189ab2acc"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a>
 </div>
 
 ---------------------------------------------------------------------------------
