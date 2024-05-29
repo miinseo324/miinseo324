@@ -1,21 +1,22 @@
 ![initial](https://user-images.githubusercontent.com/67571521/211616557-b76269f9-ce4a-41dd-b1ec-e8389fb42b53.jpg)
 
 ### Hi! there :baby_chick:
-### My name is Minseo Park!
+#### My name is Minseo Park! 🐥
 
-<div>
-	I'm majoring in civil-Engineering in Chung-Ang University (CAU) and my sub major is Software Venture.
-</div>
+- I'm majoring in civil-Engineering and Software Venture at Chung-Ang University(CAU).
+- Please visit my personal homepage ([here](https://miiiiinseo.notion.site/MINSEO-PARK-f2fac2e592ba43a5aef76e0189ab2acc))
+	- :computer: If you click this page, you can know who I am and my activity about dev.
+- :blush: If you are interested in me, please don't hesitate to send the email below.
+- :postbox: Contact : miinseo324@cau.ac.kr
 
-### This is MY PORTFOLIO! 🐥
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinseo324&theme=flag-india&show_icons=true)
 
-<div>
-  	<a href="https://github.com/miinseo324"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-	<a href="https://velog.io/@miing_seo"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=miinseo324)](https://solved.ac/miinseo324/)
 
 ---------------------------------------------------------------------------------
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiinseo324&count_bg=%23CC3333&title_bg=%2326BB98&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
 
 <!--
 **miinseo324/miinseo324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
