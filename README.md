@@ -1,12 +1,10 @@
 ![initial](https://user-images.githubusercontent.com/67571521/211616557-b76269f9-ce4a-41dd-b1ec-e8389fb42b53.jpg)
 
 ### Hi! there :baby_chick:
-### This is MY STACK! 🐣
+### My name is Minseo Park!
 
 <div>
-	<a href="https://github.com/miinseo324/CodeUP100_basic"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=appveyor&logo=C&logoColor=white" /></a>
-	<a href="https://github.com/miinseo324/BackJoon_python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=appveyor&logo=Python&logoColor=white" /></a>
-	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white" />
+	I'm majoring in civil-Engineering in Chung-Ang University (CAU) and my sub major is Software Venture.
 </div>
 
 ### This is MY PORTFOLIO! 🐥
