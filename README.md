@@ -4,7 +4,7 @@
 #### My name is Minseo Park! 🐥
 
 - 👩‍🎓 I'm majoring in civil-Engineering and Software Venture in Chung-Ang University(CAU).
-- 👩‍💻 Please visit my personal homepage ([here](https://miiiiinseo.notion.site/MINSEO-PARK-f2fac2e592ba43a5aef76e0189ab2acc))
+- 👩‍💻 Please visit my personal homepage
 	- :computer: If you click this page, you can know who I am and my activity about dev.
 - If you are interested in me, please don't hesitate to send the email below. :blush: 
 - :postbox: Contact : miinseo324@cau.ac.kr
