@@ -2,7 +2,7 @@
 
 ### Hi! there :baby_chick:
 #### My name is Minseo Park! 🐥
-
+<!--
 - 👩‍🎓 I'm majoring in civil-Engineering and Software Venture in Chung-Ang University(CAU).
 - 👩‍💻 Please visit my personal homepage
 	- :computer: If you click this page, you can know who I am and my activity about dev.
@@ -17,7 +17,7 @@
 <div align=left>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiinseo324&count_bg=%23CC3333&title_bg=%2326BB98&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+-->
 
 
 <!--
